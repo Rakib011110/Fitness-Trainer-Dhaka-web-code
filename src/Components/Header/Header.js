@@ -8,7 +8,7 @@ const Header = () => {
         <nav className='header container'>
             <h1 className='fs-1'> Fitness-Trainer-Dhaka</h1>
             <div className='fs-1'>
-                <a href="/Gym-List">Gym-List</a>
+                <a href="/about">About</a>
             </div>
 
         </nav>
