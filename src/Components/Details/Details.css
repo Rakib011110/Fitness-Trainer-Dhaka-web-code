@@ -1,0 +1,13 @@
+.details {
+  /* margin: 10px; */
+  padding: 20px;
+  background-color: whitesmoke;
+  width: 300px;
+  height: 800px;
+  margin-left: -10px;
+}
+
+.img {
+  width: 40px;
+  border-radius: 50px;
+}
