@@ -18,7 +18,7 @@ const Gym = (props) => {
                 <h6> Time required : {time}s </h6>
 
             </div>
-            <button onClick={() => handleClickToGym(exercise)} className='btn-list'><p>Add to list </p></button>
+            <button onClick={() => handleClickToGym(exercise)} className='btn-list'><p>Add To List </p></button>
 
 
 
